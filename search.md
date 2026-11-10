@@ -54,5 +54,13 @@ Showing all catalogue matches. Prices are quoted in USD.
 | NP-3204 | Pipette Controller, Motorized | Pipetting | each | $22.29 USD |
 | NP-3205 | Lab Timer, 4-Channel | Cleaning | each | $212.51 USD |
 | NP-3206 | Magnetic Stirrer, 5-Liter | Cleaning | each | $28.91 USD |
+| NP-3501 | Transfer Pipettes, 3mL, 500/pk | Pipetting | pack | $180.79 USD |
+| NP-3502 | Cell Strainers 40um, Sterile, 50/pk | Filtration | pack | $119.70 USD |
+| NP-3503 | Embedding Cassettes, 100/pk | Histology | pack | $102.19 USD |
+| NP-3504 | Microscope Slides, Frosted, 72/pk | Histology | pack | $38.57 USD |
+| NP-3505 | Cover Glasses, 22x22mm, 100/pk | Histology | pack | $216.87 USD |
+| NP-3506 | Slide Boxes, 100-Place | Histology | each | $78.20 USD |
+| NP-3507 | Tissue Culture Inserts 12mm, 50/pk | Cell Culture | pack | $197.09 USD |
+| NP-3508 | Cell Culture Dishes 100mm, 20/cs | Cell Culture | case | $187.28 USD |
 
 All prices on this page mirror the individual product detail pages under `parts/`.
