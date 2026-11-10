@@ -52,6 +52,14 @@
 | NP-3204 | Pipette Controller, Motorized | Pipetting | each | €24.74 EUR |
 | NP-3205 | Lab Timer, 4-Channel | Cleaning | each | €210.38 EUR |
 | NP-3206 | Magnetic Stirrer, 5-Liter | Cleaning | each | €30.64 EUR |
+| NP-3501 | Transfer Pipettes, 3mL, 500/pk | Pipetting | pack | €222.37 EUR |
+| NP-3502 | Cell Strainers 40um, Sterile, 50/pk | Filtration | pack | €126.88 EUR |
+| NP-3503 | Embedding Cassettes, 100/pk | Histology | pack | €120.58 EUR |
+| NP-3504 | Microscope Slides, Frosted, 72/pk | Histology | pack | €48.60 EUR |
+| NP-3505 | Cover Glasses, 22x22mm, 100/pk | Histology | pack | €249.40 EUR |
+| NP-3506 | Slide Boxes, 100-Place | Histology | each | €88.37 EUR |
+| NP-3507 | Tissue Culture Inserts 12mm, 50/pk | Cell Culture | pack | €206.94 EUR |
+| NP-3508 | Cell Culture Dishes 100mm, 20/cs | Cell Culture | case | €185.41 EUR |
 | NP-3301 | Glass Beakers, 250mL, 6/pk | Cleaning | pack | €104.14 EUR |
 | NP-3302 | Stirring Rods, Glass, 10/pk | Cleaning | pack | €103.29 EUR |
 | NP-3303 | Reagent Bottles, Amber, 500mL, 4/pk | Cleaning | pack | €27.76 EUR |
